@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>tec.poo.tareas</groupId>
-  <artifactId>InmutableBank</artifactId>
+  <artifactId>BankAccountManagementSystem</artifactId>
   <version>1.0.0</version>
 
-  <name>battleship</name>
+  <name>BankAccountManagementSystem</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -105,7 +105,7 @@
             <archive>
               <manifest>
                 <addClasspath>true</addClasspath>
-                <mainClass>tec.poo.tareas.InmutableBankAccount</mainClass>
+                <mainClass>tec.poo.tareas.BankAccountManagementSystem</mainClass>
               </manifest>
             </archive>
           </configuration>
@@ -116,7 +116,7 @@
           <configuration>
             <archive>
               <manifest>
-                <mainClass>tec.poo.tareas.InmutableBankAccount</mainClass>
+                <mainClass>tec.poo.tareas.BankAccountManagementSystem</mainClass>
               </manifest>
             </archive>
             <descriptorRefs>
